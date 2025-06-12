@@ -32,7 +32,7 @@ To build a model that identifies whether a transaction is normal or anomalous (p
 🚀 How to Use
 1. Clone the Repository
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/nissysathwika/Anamoly-detection.git
 
 2. Open in Google Colab
 You can open the notebook directly in Google Colab:
